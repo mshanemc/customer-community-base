@@ -1,14 +1,3 @@
-# SFDX  App
+don't worry about what this is.
 
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
-
-
+It's a small lego that goes in other things, unlikely to be useful to you AT ALL.
