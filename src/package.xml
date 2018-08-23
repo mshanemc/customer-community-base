@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>NetworkBranding</name>
+    <members>cbcustomer</members>
+  </types>
+  <types>
+    <name>Network</name>
+    <members>customer</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>customer Profile</members>
+  </types>
+  <types>
+    <name>SiteDotCom</name>
+    <members>customer1</members>
+  </types>
+  <types>
+    <name>CustomSite</name>
+    <members>customer</members>
+  </types>
+  <version>43.0</version>
+</Package>
